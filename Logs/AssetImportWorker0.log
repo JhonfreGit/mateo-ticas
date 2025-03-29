@@ -318,3 +318,51 @@ Memory consumption went from 155.4 MB to 151.0 MB.
 Total: 10.679602 ms (FindLiveObjects: 0.680295 ms CreateObjectMapping: 1.197526 ms MarkObjects: 5.718770 ms  DeleteObjects: 3.081968 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 2407.501526 seconds.
+  path: Assets/Settings
+  artifactKey: Guid(0220aab0833d04faeb927d84ca6cc40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings using Guid(0220aab0833d04faeb927d84ca6cc40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62508b3dd32630cf358da27d8a59d33e') in 0.013323521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Settings/Lit2DSceneTemplate.scenetemplate
+  artifactKey: Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/Lit2DSceneTemplate.scenetemplate using Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bcadf1ef1584381cca1134c3a87fd4d6') in 0.187574029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.182701 seconds.
+  path: Assets/Settings/Scenes
+  artifactKey: Guid(d574b2fb4661c408f80aa76c0182931f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/Scenes using Guid(d574b2fb4661c408f80aa76c0182931f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '208d33276ab89d9e90bec41530e68a58') in 0.011170307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.382833 seconds.
+  path: Assets/elements
+  artifactKey: Guid(c024a7b36ed1c413a8c32659a5777514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/elements using Guid(c024a7b36ed1c413a8c32659a5777514) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '671c2a846d87afd4c0b2188e178705a3') in 0.00128002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.281697 seconds.
+  path: Assets/elements/video
+  artifactKey: Guid(66569bf4ab24d4b87bc15f190c803179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/elements/video using Guid(66569bf4ab24d4b87bc15f190c803179) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '601beaf1866a17c454a8fb12d0b31119') in 0.000781612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.653428 seconds.
+  path: Assets/elements/audio
+  artifactKey: Guid(2e3353fd8906e40069895134ee5f5423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/elements/audio using Guid(2e3353fd8906e40069895134ee5f5423) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48c4cf403f596982168ef3aac6c2df19') in 0.000880645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
