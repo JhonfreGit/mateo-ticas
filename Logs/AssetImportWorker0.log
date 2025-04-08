@@ -216,3 +216,131 @@ Received Import Request.
 Start importing Assets/Scenes/Intro.unity using Guid(e510d14ff699b4cbea18f346b447ba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11bcdbb32be312dac26a58f3c80fe341') in 0.000744942 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Import Request.
+  Time since last request: 717.932967 seconds.
+  path: Assets/elements/intro/Intro app Mateo Final.mp4
+  artifactKey: Guid(cd02faa895d1641c68f98189a3729fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/elements/intro/Intro app Mateo Final.mp4 using Guid(cd02faa895d1641c68f98189a3729fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5dccbea88b14b8d2057e794f6bd688c1') in 0.024592779 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.050661 seconds.
+  path: Assets/elements/intro/intro_mateo.mp4
+  artifactKey: Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/elements/intro/intro_mateo.mp4 using Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '936a74a463002a2cc2841ec8fa7af55d') in 0.000980416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.757746 seconds.
+  path: Assets/elements/intro/introMateo.mp4
+  artifactKey: Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/elements/intro/introMateo.mp4 using Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e7646033653ab7ce2ce9abdda10cc98') in 0.000959185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.293871 seconds.
+  path: Assets/elements/intro/intro-mateo.mp4
+  artifactKey: Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/elements/intro/intro-mateo.mp4 using Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c94ac8262cdd42b0251145a6e10624eb') in 0.001057376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.567057 seconds.
+  path: Assets/StreamingAssets
+  artifactKey: Guid(b9b3fa8a2b4cb42d7a5567e2c88c154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets using Guid(b9b3fa8a2b4cb42d7a5567e2c88c154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fd722bdc7527c8580db7a857b3f8c403') in 0.000713638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.824736 seconds.
+  path: Assets/StreamingAssets/intro
+  artifactKey: Guid(2430def6189a341c4a75d806c9dbc1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro using Guid(2430def6189a341c4a75d806c9dbc1c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb9160ecf5d266de35cbb2fcdce291b9') in 0.000930675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.838789 seconds.
+  path: Assets/StreamingAssets/intro/intro-mateo.mp4
+  artifactKey: Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/intro-mateo.mp4 using Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b696967c47d8ae5a10d57fcfc8c5a49d') in 0.000973185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.927254 seconds.
+  path: Assets/StreamingAssets/intro/intro_mateo.mp4
+  artifactKey: Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/intro_mateo.mp4 using Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba2f46769b3d761edbbfeb3d42b25dcf') in 0.000920727 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.884958 seconds.
+  path: Assets/StreamingAssets/intro/introMateo.mp4
+  artifactKey: Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/introMateo.mp4 using Guid(9ad42d2f801f140a78b2173c03aab060) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4e6ac7ef00e0d89cd1cc9908e36d190') in 0.000993428 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 378.437356 seconds.
+  path: Assets/StreamingAssets/intro/Carmen de Bolivar.mp4
+  artifactKey: Guid(083e1f3f4d285493691184003bdf80b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/Carmen de Bolivar.mp4 using Guid(083e1f3f4d285493691184003bdf80b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25dc1ec864bfaf6a398411b9c696bf68') in 0.009273301 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.395605 seconds.
+  path: Assets/StreamingAssets/intro/Cancion.mp4
+  artifactKey: Guid(083e1f3f4d285493691184003bdf80b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/Cancion.mp4 using Guid(083e1f3f4d285493691184003bdf80b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68bb31c9c1e620f9fde6fd59a8c6913e') in 0.001354619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.916319 seconds.
+  path: Assets/StreamingAssets/intro/cancion.mp4
+  artifactKey: Guid(083e1f3f4d285493691184003bdf80b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/cancion.mp4 using Guid(083e1f3f4d285493691184003bdf80b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1636977ffaa180f8d851fe360911999e') in 0.00140471 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.762968 seconds.
+  path: Assets/StreamingAssets/intro/Cariñito.mov
+  artifactKey: Guid(d2124efc452d74872bdcf31ad236d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/Cariñito.mov using Guid(d2124efc452d74872bdcf31ad236d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17880f1324845a63f5af20d4b7b4216a') in 0.001608904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.602355 seconds.
+  path: Assets/StreamingAssets/intro/carinito.mov
+  artifactKey: Guid(d2124efc452d74872bdcf31ad236d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/carinito.mov using Guid(d2124efc452d74872bdcf31ad236d89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb22e5f08436121ef753609807e787a5') in 0.001981763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.044236 seconds.
+  path: Assets/StreamingAssets/intro/Versos a mi madre.mp4
+  artifactKey: Guid(8860110fbc75346bb889401b6842db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/Versos a mi madre.mp4 using Guid(8860110fbc75346bb889401b6842db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7beae3222db292dbfbc805f55e98c040') in 0.0014412 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.324980 seconds.
+  path: Assets/StreamingAssets/intro/versos.mp4
+  artifactKey: Guid(8860110fbc75346bb889401b6842db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/intro/versos.mp4 using Guid(8860110fbc75346bb889401b6842db94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '975d8c26289904c12f3ea8393b7b98fa') in 0.000984409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
