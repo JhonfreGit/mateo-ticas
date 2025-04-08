@@ -1,0 +1,49 @@
+# === Archivos y carpetas de Unity que se deben ignorar ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+Assets/StreamingAssets/aa.meta
+Assets/elements
+
+# Ignora los paquetes descargados
+Packages/manifest.json.meta
+Packages/packages-lock.json
+Packages/com.unity.collab-proxy/
+
+# Configuración específica de VS Code / JetBrains Rider
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos personales
+*.bak
+*.swp
+*.tmp
+*.pidb
+
+# Ignora versiones generadas
+*.apk
+*.aab
+*.exe
+
+# Ignora configuraciones de Unity Collaborate (si no usas)
+.collabignore
+
+# Ignora archivos de elementos
+*.mp4
+*.png
