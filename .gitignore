@@ -43,3 +43,6 @@ desktop.ini
 
 # Ignora configuraciones de Unity Collaborate (si no usas)
 .collabignore
+
+# Ignora archivos de elementos
+*.mp4
